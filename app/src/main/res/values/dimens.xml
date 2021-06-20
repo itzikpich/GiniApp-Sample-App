@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="small_item" type="dimen">100dp</item>
+    <item name="large_item" type="dimen">150dp</item>
+
+</resources>
